@@ -1,0 +1,88 @@
+.section{}
+
+.section__info1{
+  font-family: $raleway;
+  text-align: center;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  background-color: $taupe-gray;
+  color: $white;
+}
+
+.section__info{
+  font-family: $raleway;
+  text-align: center;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  background-color: $white;
+  color: $granite-gray;
+
+}
+
+.section__nosotros{
+  font-family: $raleway;
+  text-align: center;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  font-weight: $bold;
+  font-size: $x-large;
+  background-color: $jelly-bean;
+  color: $white;
+}
+
+.section__click{
+  background-color: $jelly-bean;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  color: $white;
+}
+
+.img__about{
+  width: 80%;
+}
+
+.img__about1{
+  width: 30%;
+  margin: 0 auto;
+  display: block;
+  /* padding-left: 35%;
+  padding-right: 35%;
+  padding-top: 5%; */
+}
+
+.parrafo__info1{
+  font-family: $raleway;
+  text-align: left;
+  padding-left: 20%;
+  padding-right: 20%;
+  font-weight: $regular;
+  color: $white;
+}
+
+.parrafo__info{
+  font-family: $raleway;
+  text-align: left;
+  padding-left: 20%;
+  padding-right: 20%;
+  font-weight: $regular;
+  color: $granite-gray;
+}
+
+.section__title{
+    font-family: $raleway;
+    font-weight: $bold;
+    font-size: $large;
+    text-align: center;
+    color: $granite-gray;
+}
+
+.section__button{
+  margin: -20px;
+  padding-top: 30px;
+}

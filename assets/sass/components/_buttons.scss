@@ -1,0 +1,33 @@
+.button{
+  padding: .7rem 6rem;
+  border-radius: 3px;
+  font-family: $raleway;
+  font-size: $large;
+  color: $granite-gray;
+  font-weight: $bold;
+}
+
+.button_default{
+  background-color: $white;
+  border: 1px solid $granite-gray;
+  margin-top: 3rem;
+
+  &:hover {
+    background-color: $granite-gray;
+    color: $granite-gray;
+  }
+}
+
+.button_positive {
+  background-color: $white;
+  border-color: $granite-gray;
+
+  &:hover{
+    background-color: $snow;
+    border-color: $pastel-pink;
+  }
+}
+
+.button_align{
+  text-align: center;
+}
